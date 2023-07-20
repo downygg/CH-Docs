@@ -1,3 +1,3 @@
-- [Read Me](README)
+- [Read Me](first-page)
 - [Example First Page](first-page)
 - [Example Second Page](second-page)
