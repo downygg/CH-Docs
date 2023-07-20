@@ -1,2 +1,3 @@
-Heheheh here
-first page was here
+# Example FirstPage
+
+This is an example second page that will appear in the Docsify Sidebar.
