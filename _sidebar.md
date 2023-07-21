@@ -1,3 +1,3 @@
-- [Introduce](intro)
+- [Introduction](intro)
 - [Example First Page](first-page)
 - [Example Second Page](second-page)
