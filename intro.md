@@ -1,8 +1,7 @@
 # CHainshub Documentation
 
 ## Endpoint
-- Merchant Transaction Endpoint (https://adelaide.chainshub.id/api/transaction/create)
-- Coin Transaction Endpoint (https://adelaide.chainshub.id/api/{coin_code}/{method})
+- https://adelaide.chainshub.id/api/
 
 ## Available Coin Code 
 - Tron -> `tron`
