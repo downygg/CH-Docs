@@ -1,4 +1,6 @@
 - [Introduction](intro)
+- [Avalance C-Chain](avax)
+- [Binance Smartchain](bsc)
 - [Tron](tron)
 - [Dogecoin](dogecoin)
 - [Litecoin](litecoin)
