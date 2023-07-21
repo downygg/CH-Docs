@@ -1,3 +1,4 @@
 - [Introduction](intro)
 - [Tron](tron)
-- [Example Second Page](second-page)
+- [Dogecoin](dogecoin)
+- [Litecoin](litecoin)
