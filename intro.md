@@ -1,7 +1,7 @@
 # CHainshub Documentation
 
 ## Endpoint
-- https://adelaide.chainshub.id/api/
+- https://adelaide.chainshub.id/api
 
 ## Available Method 
 - `generate` for Generating Address
