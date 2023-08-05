@@ -3,15 +3,6 @@
 ## Endpoint
 - https://adelaide.chainshub.id/api/
 
-## Available Coin Code 
-- Tron -> `tron`
-- Binance Smartchain -> `bsc`
-- Avalance C-Chain -> `avax`
-- Dogecoin -> `doge`
-- Litecoin -> `ltc`
-- Fantom -> `ftm`
-- Usdt BEP20 -> `usdt`
-
 ## Available Method 
 - `generate` for Generating Address
 - `balance` for check coin balance
