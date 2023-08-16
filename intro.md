@@ -3,6 +3,9 @@
 ## Endpoint
 - https://adelaide.chainshub.id/api
 
+## Swagger Docs
+- https://app.swaggerhub.com/apis-docs/Chainshub/Chainshub-Docs/1.0.0/
+
 ## Available Method 
 - `generate` for Generating Address
 - `balance` for check coin balance
