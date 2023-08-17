@@ -10,3 +10,4 @@
 - [Solana](solana)
 - [Stellar / Lumens](stellar-lumens)
 - [The Open Network](ton)
+- [Merchant Transaction](merchant-transaction)
