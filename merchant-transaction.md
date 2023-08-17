@@ -9,7 +9,7 @@
 | Parameter        | Type     | Example Value                              | Description    |
 | :--------        | :------- | :------------------------------------------|:----------------|
 | `currency`       |`string`  | **bsc**                                    | Available Value: `bsc`,`ftm`,`matic`,`solana`,`trx`,`doge`,`ltc`
-| `merchant_ref`   |`string`  | **INVOICE-001***                           | Merchant Identifier 
+| `merchant_ref`   |`string`  | **INVOICE-001**                           | Merchant Identifier 
 | `customer_email` |`string`  | **customer@gmail.com**                     | Customer Email
 | `customer_name`  |`string`  |**James Bond**                              | Customer Name
 | `pair`           |`string`  |**idr**                                     | Available Pair: `idr`,`crypto`
