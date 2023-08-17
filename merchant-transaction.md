@@ -101,7 +101,7 @@
             $merchant_ref = $data['merchant_ref'];
             // Do Action Base On Merchant Ref to process success payment
         } elseif($pl['transaction_status'] == 'Transaction Expired') {
-            $merchant_ref = $pl['merchant_ref'];
+            $merchant_ref = $data['merchant_ref'];
            // Do Action Base On Merchant Ref to process expired payment
         } else {
            // Do Anything
