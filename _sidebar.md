@@ -10,4 +10,5 @@
 - [Solana](solana)
 - [Stellar / Lumens](stellar-lumens)
 - [The Open Network](ton)
+- [Klaytn](klay)
 - [Merchant Transaction](merchant-transaction)
